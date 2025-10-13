@@ -1,6 +1,6 @@
-# 【持续更新】国内如何使用Claude？（稳定可用方法）【2025/10/01 更新】           
+# 【持续更新】国内如何使用Claude？（稳定可用方法）【2025/10/14 更新】           
  
-轻松使用 [**Claude 中文版**](https://xsimplechat.com) 教程，**无需翻墙**，**支持 Claude 4、Claude 3.7、Claude 3.5 及中文版功能**   
+轻松使用 [**Claude 中文版**](https://xsimplechat.com) 教程，**无需翻墙**，**支持 Claude 4.5、Claude 4 及中文版功能**   
 
 本指南为您提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://ai.lanjingai.org)、[**Claude 国内入口**](https://xsimplechat.com)、[**Claude 官网替代方案**](https://ai.lanjingai.org) 和详细的使用教程，帮助您快速上手 Claude。
 
@@ -25,9 +25,9 @@
 
 以下是我们精选的国内优质 **Claude 中文版镜像网站**，无需翻墙即可使用：
 
-- [chat.yixiaai.com](https://xsimplechat.com/) - **Claude 中文版**，支持 Claude-4、Claude-3.7、GPT-o1、o3 及 Groq-3，支持 AI 绘画，扫码即可使用。
-- [ai.lanjingai.org](https://ai.lanjingai.org/) - **Claude 中文站**，支持 Claude 4 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
-- [chat.lify.vip](https://chat.yixiaai.com/) - **Claude 镜像网站**，支持 Claude-4、Claude-3.7、GPT-o1、o3 及 Groq-3，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
+- [chat.yixiaai.com](https://xsimplechat.com/) - **Claude 中文版**，支持 Claude-4.5、Claude-4、GPT-5、o1、o3 及 Grok-4，支持 AI 绘画，扫码即可使用。
+- [ai.lanjingai.org](https://ai.lanjingai.org/) - **Claude 中文站**，支持 Claude 4.5 sonnet、Grok 4、GPT-5、4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
+- [chat.lify.vip](https://chat.yixiaai.com/) - **Claude 镜像网站**，支持 Claude-4.5、Claude-4、GPT-5、o1、o3 及 Grok-3，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
 - [gpt4us.org](https://gpt4us.org/claude-cn-site) - **ChatGPT 镜像网站**，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - **ChatGPT-4 镜像网站**，支持 GPT-4、4o，使用简单便捷。
 - [lanjing.pro](https://lanjing.pro/) - **免费 ChatGPT**，支持 GPT-4、4o 和 MJ 绘画。
